@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heliapan/ts-lib-template.git"
+    "url": "git+https://github.com/STPace/ts-lib-template.git"
   },
   "keywords": [],
   "author": "heliapan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/heliapan/ts-lib-template/issues"
+    "url": "https://github.com/STPace/ts-lib-template/issues"
   },
-  "homepage": "https://github.com/heliapan/ts-lib-template#readme",
+  "homepage": "https://github.com/STPace/ts-lib-template#readme",
   "devDependencies": {
     "@tsconfig/node14": "^1.0.1",
     "@types/node": "^16.11.11",

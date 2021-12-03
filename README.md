@@ -18,4 +18,5 @@ MIT &copy; [heliapan](https://github.com/heliapan)
 ## Checklist
 
 - [ ] Search `@heliapan/ts-lib-template` and replace it with your package name.
-- [ ] Search `heliapan` and replace it with your name.
+- [ ] Search `heliapan` and replace it with your npm name.
+- [ ] Search `STPace` and replace it with your github name.
