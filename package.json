@@ -1,5 +1,5 @@
 {
-  "name": "@stpace/ts-lib-template",
+  "name": "@heliapan/ts-lib-template",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -24,7 +24,7 @@
     "url": "git+https://github.com/STPace/ts-lib-template.git"
   },
   "keywords": [],
-  "author": "STPace",
+  "author": "heliapan",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/STPace/ts-lib-template/issues"
