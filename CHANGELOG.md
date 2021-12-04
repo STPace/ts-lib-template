@@ -1,3 +1,11 @@
+## [1.1.2](https://github.com/STPace/ts-lib-template/compare/v1.1.1...v1.1.2) (2021-12-04)
+
+
+### Bug Fixes
+
+* pnpm lock ([ec94e08](https://github.com/STPace/ts-lib-template/commit/ec94e0884069aa1128dcfcf792fc4c366c719610))
+* remove package-lock ([d2e84a9](https://github.com/STPace/ts-lib-template/commit/d2e84a9a6c743f9e840e16608aaca02c438ec31d))
+
 ## [1.1.1](https://github.com/STPace/ts-lib-template/compare/v1.1.0...v1.1.1) (2021-12-04)
 
 
