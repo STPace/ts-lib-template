@@ -1,3 +1,6 @@
 module.exports = {
-	space: true
+  space: true,
+  ignores: [
+    '*.config.js',
+  ],
 };
