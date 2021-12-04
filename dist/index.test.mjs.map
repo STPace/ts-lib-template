@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../src/index.test.ts"],
+  "sourcesContent": ["import {strict as assert} from 'node:assert';\nimport {add} from './index';\n\nexport function testAdd() {\n  assert.equal(add(1, 2), 3);\n}\n"],
+  "mappings": ";;;;;AAAA;AAGO,mBAAmB;AACxB,SAAO,MAAM,IAAI,GAAG,IAAI;AAAA;",
+  "names": []
+}
