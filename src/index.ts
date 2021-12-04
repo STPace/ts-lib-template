@@ -1,5 +1,1 @@
-export const foo = () => {
-  console.log(123);
-};
-
-foo();
+export const add = (left: number, right: number): number => left + right;
