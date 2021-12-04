@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": ["../src/index.ts"],
-  "sourcesContent": ["export const add = (left: number, right: number): number => left + right;\n"],
-  "mappings": ";;;;;;;;;AAAA;AAAA;AAAA;AAAO,IAAM,MAAM,CAAC,MAAc,UAA0B,OAAO;",
-  "names": []
-}
