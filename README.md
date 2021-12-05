@@ -9,6 +9,7 @@
   <a href='https://npm.im/@heliapan/ts-lib-template'><image src='https://badgen.net/npm/v/@heliapan/ts-lib-template' alt='npm version'/></a>
   <a href='https://github.com/xojs/xo'><image src='https://img.shields.io/badge/code_style-XO-5ed9c7.svg' alt='XO code style'/></a>
   <a href='https://github.com/semantic-release/semantic-release'><image src='https://img.shields.io/badge/semantic-release-e10079.svg?logo=semantic-release' alt='semantic-release'/></a>
+  <a href='https://open.vscode.dev/STPace/ts-lib-template'><image src='https://open.vscode.dev/badges/open-in-vscode.svg' alt='Open in Visual Studio Code'/></a>
 </p>
 
 ## Features
@@ -21,7 +22,7 @@
 
 ## Checklist
 
-- [ ] Search `@heliapan/ts-lib-template` and replace it with your package name.
+- [ ] Search `ts-lib-template` and replace it with your package name.
 - [ ] Search `heliapan` and replace it with your npm name.
 - [ ] Search `STPace` and replace it with your github name.
 - [ ] Change the version in `package.json`.
