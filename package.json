@@ -50,6 +50,8 @@
   },
   "files": [
     "dist",
-    "!dist/**/*.test.js"
+    "!dist/**/*.test.*",
+    "!dist/**/*.test.*.map",
+    "!dist/**/*.test.d.ts"
   ]
 }
