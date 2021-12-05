@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/STPace/ts-lib-template/compare/v1.1.2...v1.1.3) (2021-12-05)
+
+
+### Bug Fixes
+
+* release scripts ([d2f8565](https://github.com/STPace/ts-lib-template/commit/d2f8565514c254469ba40a97444fee71976435f1))
+
 ## [1.1.2](https://github.com/STPace/ts-lib-template/compare/v1.1.1...v1.1.2) (2021-12-04)
 
 
