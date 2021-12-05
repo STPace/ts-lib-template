@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/STPace/ts-lib-template/compare/v1.1.3...v1.1.4) (2021-12-05)
+
+
+### Bug Fixes
+
+* remove publishconfig ([c3949cd](https://github.com/STPace/ts-lib-template/commit/c3949cd5344e21115783e7af03a278d2be16c5c0))
+
 ## [1.1.3](https://github.com/STPace/ts-lib-template/compare/v1.1.2...v1.1.3) (2021-12-05)
 
 
