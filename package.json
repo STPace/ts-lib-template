@@ -51,8 +51,5 @@
   "files": [
     "dist",
     "!dist/**/*.test.js"
-  ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  }
+  ]
 }
