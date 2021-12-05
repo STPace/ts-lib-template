@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/STPace/ts-lib-template/compare/v1.1.4...v1.1.5) (2021-12-05)
+
+
+### Bug Fixes
+
+* ignore test files ([533fd3b](https://github.com/STPace/ts-lib-template/commit/533fd3b3bc8e0b81d3b000346b2f6f23d785cbec))
+
 ## [1.1.4](https://github.com/STPace/ts-lib-template/compare/v1.1.3...v1.1.4) (2021-12-05)
 
 
