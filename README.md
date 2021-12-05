@@ -7,10 +7,8 @@
 
 ## Install
 
-```bash
-$ npm i @heliapan/ts-lib-template # npm
-$ yarn add @heliapan/ts-lib-template # yarn
-$ pnpm add @heliapan/ts-lib-template # pnpm
+```sh
+pnpm add @heliapan/ts-lib-template
 ```
 
 ## License
@@ -22,3 +20,7 @@ MIT &copy; [heliapan](https://github.com/heliapan)
 - [ ] Search `@heliapan/ts-lib-template` and replace it with your package name.
 - [ ] Search `heliapan` and replace it with your npm name.
 - [ ] Search `STPace` and replace it with your github name.
+- [ ] Change the version in `package.json`
+- [ ] Clean up the `README.md`
+
+enjoy :)
