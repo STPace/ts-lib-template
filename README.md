@@ -7,6 +7,7 @@
 <p align='center'>
   <a href='https://github.com/STPace/ts-lib-template/actions/workflows/release.yml'><image src='https://github.com/STPace/ts-lib-template/actions/workflows/release.yml/badge.svg?branch=main' alt='Release'/></a>
   <a href='https://npm.im/@heliapan/ts-lib-template'><image src='https://badgen.net/npm/v/@heliapan/ts-lib-template' alt='npm version'/></a>
+  <a href="https://bundlephobia.com/result?p=@heliapan/ts-lib-template"><img src="https://badgen.net/bundlephobia/minzip/@heliapan/ts-lib-template" alt="Minified + gzip package size for @heliapan/ts-lib-template in KB"></a>
   <a href='https://github.com/xojs/xo'><image src='https://img.shields.io/badge/code_style-XO-5ed9c7.svg' alt='XO code style'/></a>
   <a href='https://github.com/semantic-release/semantic-release'><image src='https://img.shields.io/badge/semantic-release-e10079.svg?logo=semantic-release' alt='semantic-release'/></a>
   <a href='https://open.vscode.dev/STPace/ts-lib-template'><image src='https://open.vscode.dev/badges/open-in-vscode.svg' alt='Open in Visual Studio Code'/></a>
