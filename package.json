@@ -1,7 +1,7 @@
 {
   "name": "@halil-pan/ts-lib-template",
   "version": "1.1.5",
-  "description": "My awesome library",
+  "description": "awesome library",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
