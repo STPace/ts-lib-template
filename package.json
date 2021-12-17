@@ -1,5 +1,5 @@
 {
-  "name": "@heliapan/ts-lib-template",
+  "name": "@halil-pan/ts-lib-template",
   "version": "1.1.5",
   "description": "My awesome library",
   "main": "./dist/index.js",
@@ -22,18 +22,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/STPace/ts-lib-template.git"
+    "url": "git+https://github.com/halil-pan/ts-lib-template.git"
   },
   "keywords": [
     "typescript",
     "library"
   ],
-  "author": "heliapan",
+  "author": "halil-pan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/STPace/ts-lib-template/issues"
+    "url": "https://github.com/halil-pan/ts-lib-template/issues"
   },
-  "homepage": "https://github.com/STPace/ts-lib-template#readme",
+  "homepage": "https://github.com/halil-pan/ts-lib-template#readme",
   "devDependencies": {
     "@commitlint/cli": "^15.0.0",
     "@commitlint/config-conventional": "^15.0.0",
