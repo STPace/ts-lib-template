@@ -53,5 +53,8 @@
     "!dist/**/*.test.*",
     "!dist/**/*.test.*.map",
     "!dist/**/*.test.d.ts"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
