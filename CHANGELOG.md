@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/halil-pan/ts-lib-template/compare/v1.2.0...v1.2.1) (2021-12-17)
+
+
+### Bug Fixes
+
+* set publish access to public ([b85ea8f](https://github.com/halil-pan/ts-lib-template/commit/b85ea8f21b17adb1548865b682057f5db86c56e6))
+
 # [1.2.0](https://github.com/halil-pan/ts-lib-template/compare/v1.1.5...v1.2.0) (2021-12-17)
 
 
