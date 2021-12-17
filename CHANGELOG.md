@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/halil-pan/ts-lib-template/compare/v1.1.5...v1.2.0) (2021-12-17)
+
+
+### Features
+
+* update desc ([d6d6aee](https://github.com/halil-pan/ts-lib-template/commit/d6d6aeeccb83494731d2c00224124b24fee402c8))
+
 ## [1.1.5](https://github.com/STPace/ts-lib-template/compare/v1.1.4...v1.1.5) (2021-12-05)
 
 
