@@ -25,7 +25,7 @@
 
 - [ ] Search `ts-lib-template` and replace it with your package name.
 - [ ] Search `halil-pan` and replace it with your name.
-- [ ] Change the version in `package.json`.
+- [ ] Change the version to `0.0.0-semantic-release` in `package.json`.
 - [ ] Generate [npm authentication token](https://docs.npmjs.com/creating-and-viewing-access-tokens) and copy it.
 - [ ] Navigate to your GitHub repository page, click Settings and then Secrets. Click on New repository secret, fill in `NPM_TOKEN` as the Name, paste the npm token created on the previous step inside the Value field and hit Add secret.
 - [ ] Clean up the `README.md`.
