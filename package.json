@@ -19,7 +19,7 @@
     "dev": "tsup --watch",
     "build": "tsup",
     "prepare": "husky install",
-    "fresh": "npx taze -w"
+    "fresh": "npx taze -w & pnpm install"
   },
   "repository": {
     "type": "git",
@@ -41,7 +41,7 @@
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
     "@tsconfig/node14": "^1.0.3",
-    "@types/node": "^16.18.12",
+    "@types/node": "^18.11.19",
     "esno": "^0.12.1",
     "husky": "^7.0.4",
     "tsup": "^5.12.9",
