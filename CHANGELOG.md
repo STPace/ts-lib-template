@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/halil-pan/ts-lib-template/compare/v1.2.1...v1.2.2) (2023-02-07)
+
+
+### Bug Fixes
+
+* test ([32e1bc3](https://github.com/halil-pan/ts-lib-template/commit/32e1bc31e354cea97ce486f15593a18616c11f16))
+
 ## [1.2.1](https://github.com/halil-pan/ts-lib-template/compare/v1.2.0...v1.2.1) (2021-12-17)
 
 
