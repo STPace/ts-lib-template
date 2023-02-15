@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/halil-pan/ts-lib-template/compare/v1.3.0...v1.4.0) (2023-02-15)
+
+
+### Features
+
+* update @ts-config/node18 ([2a956fe](https://github.com/halil-pan/ts-lib-template/commit/2a956fe98f5e41af7366544884a1ccab582807b4))
+
 # [1.3.0](https://github.com/halil-pan/ts-lib-template/compare/v1.2.2...v1.3.0) (2023-02-15)
 
 
