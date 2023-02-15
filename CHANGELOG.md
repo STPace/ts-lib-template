@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/halil-pan/ts-lib-template/compare/v1.2.2...v1.3.0) (2023-02-15)
+
+
+### Features
+
+* use rome as formatter and linter ([f5911dc](https://github.com/halil-pan/ts-lib-template/commit/f5911dcb493bcc112e70f8302c9d595ffe3a2115))
+
 ## [1.2.2](https://github.com/halil-pan/ts-lib-template/compare/v1.2.1...v1.2.2) (2023-02-07)
 
 
