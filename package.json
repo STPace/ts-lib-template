@@ -14,7 +14,6 @@
   },
   "scripts": {
     "test": "xv dist",
-    "lint": "xo",
     "start": "esno src/index.ts",
     "dev": "tsup --watch",
     "build": "tsup",
