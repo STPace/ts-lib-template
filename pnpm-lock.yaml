@@ -5,7 +5,7 @@ specifiers:
   '@commitlint/config-conventional': ^15.0.0
   '@semantic-release/changelog': ^6.0.2
   '@semantic-release/git': ^10.0.1
-  '@tsconfig/node14': ^1.0.3
+  '@tsconfig/node18': ^1.0.1
   '@types/node': ^18.11.19
   esno: ^0.12.1
   husky: ^7.0.4
@@ -20,7 +20,7 @@ devDependencies:
   '@commitlint/config-conventional': 15.0.0
   '@semantic-release/changelog': 6.0.2
   '@semantic-release/git': 10.0.1
-  '@tsconfig/node14': 1.0.3
+  '@tsconfig/node18': 1.0.1
   '@types/node': 18.11.19
   esno: 0.12.1_typescript@4.9.5
   husky: 7.0.4
@@ -562,8 +562,8 @@ packages:
       - supports-color
     dev: true
 
-  /@tsconfig/node14/1.0.3:
-    resolution: {integrity: sha512-ysT8mhdixWK6Hw3i1V2AeRqZ5WfXg1G43mqoYlM2nc6388Fq5jcXyr5mRsqViLx/GJYdoL0bfXD8nmF+Zn/Iow==}
+  /@tsconfig/node18/1.0.1:
+    resolution: {integrity: sha512-sNFeK6X2ATlhlvzyH4kKYQlfHXE2f2/wxtB9ClvYXevWpmwkUT7VaSrjIN9E76Qebz8qP5JOJJ9jD3QoD/Z9TA==}
     dev: true
 
   /@types/eslint/7.29.0:
